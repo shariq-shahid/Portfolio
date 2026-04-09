@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://shariq.ddns.net/sitemap.xml
